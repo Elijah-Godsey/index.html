@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+<html>
+<style>
+.body-class {
+   	background-color: light blue;    
+}
+
+.header-class {
+    background-color: light blue;
+    color: white;
+    padding: 40px; 
+    text-align: center; 
+}
+
+.nav-class {
+    background-color: yellow; 
+    overflow: hidden;
+}
+
+.nav-class a {
+    float: left;
+    display: block;
+    color: purple; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+}
+
+.nav-class a {
+    background-color: yellow;
+}
+
+.nav-class .active {
+    font-weight: bold; 
+}
+
+.title-class {
+    color: red; 
+}
+
+.section-title-class {
+    color: yellow; 
+}
+
+.text-class {
+    color: purple; 
+}
+
+.image-class {
+    max-width: 100%; 
+    height: auto;
+    border: 2px solid #4CAF50; 
+}
+
+.form-class {
+    background-color: white; 
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    margin: 20px 0; 
+}
+
+.button-class {
+    background-color: light blue; 
+    color: orange; 
+    border: none; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+}
+
+.button-class:hover {
+    background-color: green; 
+}
+.image-class {
+    border: Purple;
+    padding: 10px 20px; 
+   
+}
+
+
+.footer-class {
+    background-color: orange; 
+    color: blue; 
+    text-align: center; 
+    padding: 15px 0;
+}
+
+
+</style>
+</body>
+</html>
 
